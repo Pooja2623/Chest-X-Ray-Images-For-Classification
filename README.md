@@ -7,6 +7,7 @@ Develop a CNN model: Design and train a convolutional neural network to accurate
 Enhance diagnostic accuracy: Improve the precision and recall of pneumonia detection compared to traditional methods and non-deep learning approaches.
 Deploy a scalable solution: Ensure the model can be integrated into healthcare systems for real-time diagnosis and support in clinical settings.
 Dataset
+Download Dataset From This Link : https://data.mendeley.com/datasets/rscbjbr9sj/2
 The dataset used in this project consists of labeled chest X-ray images, which are divided into two categories:
 
 Pneumonia: X-ray images of patients diagnosed with pneumonia.
